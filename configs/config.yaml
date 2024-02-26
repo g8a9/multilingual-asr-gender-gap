@@ -1,0 +1,49 @@
+CV_LANGS:
+  - de
+  - en
+  - nl
+  # slavic
+  - ru
+  - sr
+  - cs
+  - sk
+  # romance
+  - it
+  - fr
+  - es
+  - ca
+  - pt
+  - ro
+  # bantu
+  - sw
+  # niger-congo
+  - yo
+  # japonic
+  - ja
+  # uralic
+  - hu
+  - fi
+  # semitic
+  - ar
+
+VP_LANGS:
+    - de
+    - en
+    - nl
+    - it
+    - fr
+    - es
+    - ro
+    - hu
+    - fi
+    - sk
+    - cs
+    - ar
+
+OTHER:
+    langs:
+        - de
+        - en
+        - es
+        - ca
+        - fr
