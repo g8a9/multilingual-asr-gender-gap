@@ -1,5 +1,7 @@
-# multilingual-asr-gender-gap
-Code associated with the paper "Multilingual Speech Models for Automatic Speech Recognition Exhibit Gender Performance Gaps."
+Code and data associated with the paper **"Multilingual Speech Models for Automatic Speech Recognition Exhibit Gender Performance Gaps."**
+
+[![Arxiv](https://img.shields.io/badge/preprint-arxiv-darkred)](TBA)
+[![Data and Artifacts](https://img.shields.io/badge/Data%20and%20Artifacts-HF%20Dataset-yellow)](https://huggingface.co/datasets/g8a9/multilingual-asr-gender-gap)
 
 ## Getting Started
 
